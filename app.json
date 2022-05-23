@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "scool-atendence",
+    "slug": "snack-8db0bf7d-5d50-470a-9e80-5879eec60a11",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "versionCode":1,
+      "package": "com.matheus.app_scool"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
